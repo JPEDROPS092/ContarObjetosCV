@@ -1,11 +1,8 @@
 # IndustriaCount - Sistema de Contagem de Objetos
-
+![1745408600924](image/README/1745408600924.png)
 Um sistema avançado de visão computacional para contagem automática de objetos em ambientes industriais, utilizando tecnologia YOLO para detecção e rastreamento com alta precisão.
 
-<video width="640" height="360" controls>
-  <source src="ex.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 ## 🔍 Características Principais
 
@@ -17,6 +14,7 @@ Um sistema avançado de visão computacional para contagem automática de objeto
 - **Interface Intuitiva**: Design moderno e funcional construído com Tkinter
 - **Visualização Dinâmica**: Gráficos interativos com histórico e tendências de produção
 - **Gerenciamento de Modelos**: Biblioteca integrada para download e seleção de modelos YOLO
+![Sistema de Contagem Industrial](image/ex.mp4)
 
 ## 🏗️ Estrutura do Projeto
 
@@ -59,7 +57,7 @@ IndustriaCount/
 1. Clone o repositório em sua máquina:
 
    ```bash
-   git clone https://github.com/seu-usuario/IndustriaCount.git
+   git clone https://github.com/jpedrops092/IndustriaCount.git
    cd IndustriaCount
    ```
 2. Configure o ambiente com as dependências necessárias:
