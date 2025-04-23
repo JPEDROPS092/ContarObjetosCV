@@ -2,7 +2,10 @@
 
 Um sistema avançado de visão computacional para contagem automática de objetos em ambientes industriais, utilizando tecnologia YOLO para detecção e rastreamento com alta precisão.
 
-![Sistema de Contagem Industrial](https://github.com/seu-usuario/IndustriaCount/raw/main/assets/ex.mp4)
+<video width="640" height="360" controls>
+  <source src="assets/ex.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🔍 Características Principais
 
