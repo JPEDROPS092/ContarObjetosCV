@@ -3,7 +3,7 @@
 Um sistema avançado de visão computacional para contagem automática de objetos em ambientes industriais, utilizando tecnologia YOLO para detecção e rastreamento com alta precisão.
 
 <video width="640" height="360" controls>
-  <source src="assets/ex.mp4" type="video/mp4">
+  <source src="ex.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -57,17 +57,18 @@ IndustriaCount/
 ## ⚙️ Instalação
 
 1. Clone o repositório em sua máquina:
+
    ```bash
    git clone https://github.com/seu-usuario/IndustriaCount.git
    cd IndustriaCount
    ```
-
 2. Configure o ambiente com as dependências necessárias:
+
    ```bash
    pip install -r requirements.txt
    ```
-
 3. Baixe os modelos YOLO pré-treinados (recomendado):
+
    ```bash
    python download_models.py
    ```
@@ -75,11 +76,12 @@ IndustriaCount/
 ## 🖥️ Como Usar
 
 1. Inicie o sistema com:
+
    ```bash
    python main.py
    ```
-
 2. Na interface do usuário:
+
    - Selecione um modelo YOLO da biblioteca
    - Conecte uma webcam ou carregue um arquivo de mídia
    - Defina uma linha de contagem com a ferramenta de desenho
@@ -95,6 +97,7 @@ python download_models.py
 ```
 
 Esta ferramenta oferece:
+
 - Catálogo de modelos YOLO otimizados para diferentes cenários
 - Avaliação comparativa de desempenho
 - Download com verificação de integridade
@@ -103,6 +106,7 @@ Esta ferramenta oferece:
 ## 📊 Visualização de Dados
 
 IndustriaCount gera relatórios detalhados que incluem:
+
 - Contagens totais e por categoria
 - Taxas de produção por período
 - Distribuição de objetos por características
@@ -115,6 +119,7 @@ Este projeto é disponibilizado sob a licença MIT, permitindo uso comercial e m
 ## 🤝 Contribuições
 
 Sua contribuição é bem-vinda! Para participar:
+
 - Reporte issues para identificar bugs ou sugerir melhorias
 - Envie pull requests com novas funcionalidades ou correções
 - Compartilhe estudos de caso e exemplos de implementação
