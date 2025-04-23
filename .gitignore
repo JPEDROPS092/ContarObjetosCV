@@ -1,0 +1,62 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (large binary files)
+models/*.pt
+models/*.pth
+models/*.onnx
+models/*.tflite
+models/*.h5
+
+# Logs
+logs/
+*.log
+
+# Local configuration
+.env
+.env.local
+.env.*.local
+
+# Generated files
+output/
+results/
+temp/
+
+# Media files
+
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.gif
+# Except example images in docs or examples
+!docs/**/*.png
+!docs/**/*.jpg
+!examples/**/*.png
+!examples/**/*.jpg
+
+# OS specific
+.DS_Store
+Thumbs.db

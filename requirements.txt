@@ -1,0 +1,14 @@
+opencv-python>=4.5.0
+numpy>=1.19.0
+torch>=1.7.0
+torchvision>=0.8.0
+ultralytics>=8.0.0
+pillow>=8.0.0
+matplotlib>=3.3.0
+pandas>=1.1.0
+streamlit>=1.0.0
+rich>=10.0.0
+requests>=2.25.0
+tqdm>=4.50.0
+reportlab>=3.6.0  # Para geração de PDF
+fpdf2>=2.5.0      # Alternativa para geração de PDF mais simples
