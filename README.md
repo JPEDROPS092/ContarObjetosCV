@@ -57,7 +57,7 @@ IndustriaCount/
 1. Clone o repositório em sua máquina:
 
    ```bash
-   git clone https://github.com/jpedrops092/IndustriaCount.git
+   git clone https://github.com/jpedrops092/ContarObjetosCV.git
    cd IndustriaCount
    ```
 2. Configure o ambiente com as dependências necessárias:
